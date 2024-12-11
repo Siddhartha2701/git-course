@@ -28,6 +28,11 @@ git commit -m "pass the message what have you done"
 to discard changes in working directory
 git restore fileName
 
+to directely goto the commit section
+git commit -a -m "forth commit"
+
+
+
 
 
 
