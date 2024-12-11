@@ -1,0 +1,35 @@
+HELLO WORLD
+
+to create git reprosetory use the command
+git init
+
+to create the own branch
+git init -b branchName
+
+to check the status
+git status
+
+to remove the file
+git rm fileName
+
+to add the file to the staging area
+git add fileName
+
+to unstage 
+git rm --cached fileName
+
+to check the commits done or commit history
+git log
+
+to commit or to move the file from staging to commit
+git commit -m "pass the message what have you done"
+
+
+to discard changes in working directory
+git restore fileName
+
+
+
+
+
+
