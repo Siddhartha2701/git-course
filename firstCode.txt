@@ -1,0 +1,16 @@
+HELLO WORLD
+
+to create git reprosetory use the command
+git init
+
+to create the own branch
+git init -b branchName
+
+to check the status
+git status
+
+to remove the file
+git rm fileName
+
+to add the file 
+git add fileName
