@@ -31,10 +31,7 @@ git restore fileName
 to directely goto the commit section
 git commit -a -m "forth commit"
 
+to check the difference in the staging area
+git diff -- staged
 
-
-
-
-
-
-
+git is the best platform
