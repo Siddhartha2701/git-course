@@ -20,6 +20,7 @@ step10 : verify in the github
 ===============================existing repo===========================================================
 step1 : add to the staging -git add fileName
 step2 : commit to the local repo -git commit -m "message about the commit"
-step3 : to push to the remote repo 
+step3 : git branch -M main
+step4 : to push to the remote repo 
         -git push origin main 
         done
