@@ -1,0 +1,25 @@
+========================new repo creation======================================================
+
+step1 : create a directery dir 
+step2 : create a readme file using the command
+echo "git course" >> README.md
+step3 : then add the readme file
+step4 : commit the readme file to the local reprosetory
+step5 : add a branch -M master
+step6 : now we need to create ssh key for verification
+        so the command is 
+        ssh-keygen -o
+        it will ask for some creadentials
+step7 : goto .ssh file and access the id.pub file and copy the code 
+        past the code in the github ssh keys 
+step8 : now add the remote git origin ssh github link
+step9 : now push to the origin master command 
+        git push -u origin master
+step10 : verify in the github 
+
+===============================existing repo===========================================================
+step1 : add to the staging -git add fileName
+step2 : commit to the local repo -git commit -m "message about the commit"
+step3 : to push to the remote repo 
+        -git push origin main 
+        done
