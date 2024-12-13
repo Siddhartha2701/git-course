@@ -28,3 +28,4 @@ step4 : to push to the remote repo
 ====================================clone ==========================================================
 
 clone file fileName
+git clone <repository_url>
