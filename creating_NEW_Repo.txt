@@ -24,3 +24,7 @@ step3 : git branch -M main
 step4 : to push to the remote repo 
         -git push origin main 
         done
+
+====================================clone ==========================================================
+
+clone file fileName
